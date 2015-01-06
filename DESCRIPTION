@@ -1,8 +1,8 @@
 Package: RArgusDBAPI
-Title: What the package does (one line)
+Title: R API To Argus Database
 Version: 0.1
-Authors@R: "First Last <first.last@example.com> [aut, cre]"
-Description: What the package does (one paragraph)
+Authors@R: "Peter von Rohr <peter.vonrohr@qualitasag.ch>"
+Description: Provides an R API to the Argus Database
 Depends: R (>= 3.1.2)
-License: What license is it under?
+License: >GPL-2
 LazyData: true
